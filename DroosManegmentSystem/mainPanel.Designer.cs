@@ -98,6 +98,7 @@
             this.logOut.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.logOut.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.logOut.UseVisualStyleBackColor = true;
+            this.logOut.Click += new System.EventHandler(this.logOut_Click);
             // 
             // accBtn
             // 
@@ -300,7 +301,7 @@
             this.navbarPnl.Dock = System.Windows.Forms.DockStyle.Top;
             this.navbarPnl.Location = new System.Drawing.Point(291, 0);
             this.navbarPnl.Name = "navbarPnl";
-            this.navbarPnl.Size = new System.Drawing.Size(883, 84);
+            this.navbarPnl.Size = new System.Drawing.Size(890, 84);
             this.navbarPnl.TabIndex = 2;
             // 
             // navbarActivePage
@@ -318,7 +319,7 @@
             this.navbarActivePage.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.navbarActivePage.IconSize = 30;
             this.navbarActivePage.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.navbarActivePage.Location = new System.Drawing.Point(583, 0);
+            this.navbarActivePage.Location = new System.Drawing.Point(590, 0);
             this.navbarActivePage.Name = "navbarActivePage";
             this.navbarActivePage.Padding = new System.Windows.Forms.Padding(0, 0, 20, 0);
             this.navbarActivePage.Size = new System.Drawing.Size(300, 84);
@@ -366,7 +367,7 @@
             this.childFormPnl.Dock = System.Windows.Forms.DockStyle.Fill;
             this.childFormPnl.Location = new System.Drawing.Point(291, 84);
             this.childFormPnl.Name = "childFormPnl";
-            this.childFormPnl.Size = new System.Drawing.Size(883, 428);
+            this.childFormPnl.Size = new System.Drawing.Size(890, 648);
             this.childFormPnl.TabIndex = 4;
             this.childFormPnl.Paint += new System.Windows.Forms.PaintEventHandler(this.childFormPnl_Paint);
             // 
@@ -395,7 +396,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(1174, 512);
+            this.ClientSize = new System.Drawing.Size(1181, 732);
             this.Controls.Add(this.childFormPnl);
             this.Controls.Add(this.navbarPnl);
             this.Controls.Add(this.sideMenu);

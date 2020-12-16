@@ -226,6 +226,11 @@ namespace DroosManegmentSystem
 			
         }
 
+        private void logOut_Click(object sender, EventArgs e)
+        {
+			Application.Exit();
+        }
+
         private void mainPanel_FormClosed(object sender, FormClosedEventArgs e)
         {
 			Application.Exit();

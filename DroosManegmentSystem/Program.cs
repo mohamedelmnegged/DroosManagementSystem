@@ -16,7 +16,7 @@ namespace DroosManegmentSystem.Forms
 		{
 			Application.EnableVisualStyles();
 			Application.SetCompatibleTextRenderingDefault(false);
-			Application.Run(new payingExpenses());
+			Application.Run(new loginForm());
 		}
 	}
 }
