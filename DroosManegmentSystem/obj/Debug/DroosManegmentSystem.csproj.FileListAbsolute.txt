@@ -1,0 +1,245 @@
+E:\programming\C#\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\DroosManegmentSystem.exe.config
+E:\programming\C#\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\DroosManegmentSystem.exe
+E:\programming\C#\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\DroosManegmentSystem.pdb
+E:\programming\C#\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.csprojAssemblyReference.cache
+E:\programming\C#\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Properties.Resources.resources
+E:\programming\C#\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.csproj.GenerateResource.cache
+E:\programming\C#\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.csproj.CoreCompileInputs.cache
+E:\programming\C#\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.exe
+E:\programming\C#\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.pdb
+E:\programming\C#\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.loginForm.resources
+E:\programming\C#\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\FontAwesome.Sharp.dll
+E:\programming\C#\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.mainPanel.resources
+E:\programming\C#\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.csproj.CopyComplete
+E:\programming\C#\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.groupsForm.resources
+E:\programming\C#\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.mainPageForm.resources
+E:\programming\C#\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.studentsForm.resources
+C:\Users\Masrawy nET\OneDrive\سطح المكتب\kooo\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\DroosManegmentSystem.exe.config
+C:\Users\Masrawy nET\OneDrive\سطح المكتب\kooo\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\DroosManegmentSystem.exe
+C:\Users\Masrawy nET\OneDrive\سطح المكتب\kooo\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\DroosManegmentSystem.pdb
+C:\Users\Masrawy nET\OneDrive\سطح المكتب\kooo\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Masrawy nET\OneDrive\سطح المكتب\kooo\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.csprojAssemblyReference.cache
+C:\Users\Masrawy nET\OneDrive\سطح المكتب\kooo\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.groupsForm.resources
+C:\Users\Masrawy nET\OneDrive\سطح المكتب\kooo\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.mainPageForm.resources
+C:\Users\Masrawy nET\OneDrive\سطح المكتب\kooo\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.studentsForm.resources
+C:\Users\Masrawy nET\OneDrive\سطح المكتب\kooo\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.loginForm.resources
+C:\Users\Masrawy nET\OneDrive\سطح المكتب\kooo\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.mainPanel.resources
+C:\Users\Masrawy nET\OneDrive\سطح المكتب\kooo\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Properties.Resources.resources
+C:\Users\Masrawy nET\OneDrive\سطح المكتب\kooo\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.csproj.GenerateResource.cache
+C:\Users\Masrawy nET\OneDrive\سطح المكتب\kooo\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\Masrawy nET\OneDrive\سطح المكتب\kooo\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.csproj.CopyComplete
+C:\Users\Masrawy nET\OneDrive\سطح المكتب\kooo\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.exe
+C:\Users\Masrawy nET\OneDrive\سطح المكتب\kooo\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.pdb
+C:\Users\Masrawy nET\OneDrive\سطح المكتب\kooo\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.addStudent.resources
+C:\Users\Masrawy nET\OneDrive\سطح المكتب\kooo\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.payingExpenses.resources
+C:\Users\Masrawy nET\OneDrive\سطح المكتب\kooo\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.accountStatement.resources
+C:\Users\Masrawy nET\OneDrive\سطح المكتب\kooo\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.latePayments.resources
+C:\Users\Masrawy nET\OneDrive\سطح المكتب\kooo\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.carnivalPrint.resources
+E:\programming\C#\DroosMS\V2\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\DroosManegmentSystem.exe.config
+E:\programming\C#\DroosMS\V2\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\DroosManegmentSystem.exe
+E:\programming\C#\DroosMS\V2\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\DroosManegmentSystem.pdb
+E:\programming\C#\DroosMS\V2\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\FontAwesome.Sharp.dll
+E:\programming\C#\DroosMS\V2\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.csprojAssemblyReference.cache
+E:\programming\C#\DroosMS\V2\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.accountStatement.resources
+E:\programming\C#\DroosMS\V2\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.addStudent.resources
+E:\programming\C#\DroosMS\V2\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.carnivalPrint.resources
+E:\programming\C#\DroosMS\V2\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.groupsForm.resources
+E:\programming\C#\DroosMS\V2\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.latePayments.resources
+E:\programming\C#\DroosMS\V2\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.mainPageForm.resources
+E:\programming\C#\DroosMS\V2\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.payingExpenses.resources
+E:\programming\C#\DroosMS\V2\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.studentsForm.resources
+E:\programming\C#\DroosMS\V2\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.loginForm.resources
+E:\programming\C#\DroosMS\V2\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.mainPanel.resources
+E:\programming\C#\DroosMS\V2\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Properties.Resources.resources
+E:\programming\C#\DroosMS\V2\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.csproj.GenerateResource.cache
+E:\programming\C#\DroosMS\V2\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.csproj.CoreCompileInputs.cache
+E:\programming\C#\DroosMS\V2\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.csproj.CopyComplete
+E:\programming\C#\DroosMS\V2\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.exe
+E:\programming\C#\DroosMS\V2\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.pdb
+E:\programming\C#\DroosMS\V2\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.acountingForm.resources
+E:\programming\C#\DroosMS\V2\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.employersForm.resources
+E:\programming\C#\DroosMS\V2\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.expensesForm.resources
+E:\programming\C#\DroosMS\V2\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.lessonsForm.resources
+C:\Users\Masrawy nET\OneDrive\سطح المكتب\kooo\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.acountingForm.resources
+C:\Users\Masrawy nET\OneDrive\سطح المكتب\kooo\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.employersForm.resources
+C:\Users\Masrawy nET\OneDrive\سطح المكتب\kooo\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.expensesForm.resources
+C:\Users\Masrawy nET\OneDrive\سطح المكتب\kooo\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.lessonsForm.resources
+C:\Users\Masrawy nET\OneDrive\سطح المكتب\kooo\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.homework.resources
+C:\Users\Masrawy nET\OneDrive\سطح المكتب\kooo\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.presence.resources
+C:\Users\Masrawy nET\OneDrive\سطح المكتب\kooo\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.reportEmployee.resources
+C:\Users\Masrawy nET\OneDrive\سطح المكتب\kooo\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.salary.resources
+F:\faculty\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.csprojAssemblyReference.cache
+F:\faculty\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.exe.config
+F:\faculty\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.accountStatement.resources
+F:\faculty\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.acountingForm.resources
+F:\faculty\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.addStudent.resources
+F:\faculty\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.carnivalPrint.resources
+F:\faculty\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.employersForm.resources
+F:\faculty\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.expensesForm.resources
+F:\faculty\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.groupsForm.resources
+F:\faculty\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.homework.resources
+F:\faculty\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.latePayments.resources
+F:\faculty\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.lessonsForm.resources
+F:\faculty\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.mainPageForm.resources
+F:\faculty\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.payingExpenses.resources
+F:\faculty\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.presence.resources
+F:\faculty\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.reportEmployee.resources
+F:\faculty\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.salary.resources
+F:\faculty\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.studentsForm.resources
+F:\faculty\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.mainPanel.resources
+F:\faculty\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Properties.Resources.resources
+F:\faculty\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.csproj.GenerateResource.cache
+F:\faculty\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.csproj.CoreCompileInputs.cache
+F:\faculty\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.exe
+F:\faculty\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.pdb
+F:\faculty\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\DroosManegmentSystem.exe.config
+F:\faculty\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\DroosManegmentSystem.exe
+F:\faculty\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\DroosManegmentSystem.pdb
+F:\faculty\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\FontAwesome.Sharp.dll
+F:\faculty\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\MySql.Data.dll
+F:\faculty\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\Google.Protobuf.dll
+F:\faculty\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\Zstandard.Net.dll
+F:\faculty\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\faculty\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\BouncyCastle.Crypto.dll
+F:\faculty\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\Ubiety.Dns.Core.dll
+F:\faculty\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\Renci.SshNet.dll
+F:\faculty\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\System.Memory.dll
+F:\faculty\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\System.Buffers.dll
+F:\faculty\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\K4os.Compression.LZ4.dll
+F:\faculty\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\K4os.Hash.xxHash.dll
+F:\faculty\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\System.Numerics.Vectors.dll
+F:\faculty\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\faculty\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\MySql.Data.xml
+F:\faculty\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.csproj.CopyComplete
+F:\faculty\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.loginForm.resources
+C:\Users\Omar Baiomay\Desktop\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\DroosManegmentSystem.exe.config
+C:\Users\Omar Baiomay\Desktop\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\DroosManegmentSystem.exe
+C:\Users\Omar Baiomay\Desktop\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\DroosManegmentSystem.pdb
+C:\Users\Omar Baiomay\Desktop\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Omar Baiomay\Desktop\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\Google.Protobuf.dll
+C:\Users\Omar Baiomay\Desktop\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\Zstandard.Net.dll
+C:\Users\Omar Baiomay\Desktop\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Omar Baiomay\Desktop\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Omar Baiomay\Desktop\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Omar Baiomay\Desktop\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\Renci.SshNet.dll
+C:\Users\Omar Baiomay\Desktop\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\System.Memory.dll
+C:\Users\Omar Baiomay\Desktop\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\System.Buffers.dll
+C:\Users\Omar Baiomay\Desktop\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Omar Baiomay\Desktop\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Omar Baiomay\Desktop\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Omar Baiomay\Desktop\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Omar Baiomay\Desktop\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\MySql.Data.xml
+C:\Users\Omar Baiomay\Desktop\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.csprojAssemblyReference.cache
+C:\Users\Omar Baiomay\Desktop\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.exe.config
+C:\Users\Omar Baiomay\Desktop\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.accountStatement.resources
+C:\Users\Omar Baiomay\Desktop\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.acountingForm.resources
+C:\Users\Omar Baiomay\Desktop\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.addStudent.resources
+C:\Users\Omar Baiomay\Desktop\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.carnivalPrint.resources
+C:\Users\Omar Baiomay\Desktop\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.employersForm.resources
+C:\Users\Omar Baiomay\Desktop\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.expensesForm.resources
+C:\Users\Omar Baiomay\Desktop\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.groupsForm.resources
+C:\Users\Omar Baiomay\Desktop\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.homework.resources
+C:\Users\Omar Baiomay\Desktop\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.latePayments.resources
+C:\Users\Omar Baiomay\Desktop\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.lessonsForm.resources
+C:\Users\Omar Baiomay\Desktop\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.mainPageForm.resources
+C:\Users\Omar Baiomay\Desktop\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.payingExpenses.resources
+C:\Users\Omar Baiomay\Desktop\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.presence.resources
+C:\Users\Omar Baiomay\Desktop\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.reportEmployee.resources
+C:\Users\Omar Baiomay\Desktop\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.salary.resources
+C:\Users\Omar Baiomay\Desktop\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.studentsForm.resources
+C:\Users\Omar Baiomay\Desktop\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.loginForm.resources
+C:\Users\Omar Baiomay\Desktop\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.mainPanel.resources
+C:\Users\Omar Baiomay\Desktop\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Properties.Resources.resources
+C:\Users\Omar Baiomay\Desktop\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.csproj.GenerateResource.cache
+C:\Users\Omar Baiomay\Desktop\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\Omar Baiomay\Desktop\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.csproj.CopyComplete
+C:\Users\Omar Baiomay\Desktop\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.exe
+C:\Users\Omar Baiomay\Desktop\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.pdb
+F:\faculty\droos\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\DroosManegmentSystem.exe.config
+F:\faculty\droos\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\DroosManegmentSystem.exe
+F:\faculty\droos\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\DroosManegmentSystem.pdb
+F:\faculty\droos\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\FontAwesome.Sharp.dll
+F:\faculty\droos\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\MySql.Data.dll
+F:\faculty\droos\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\Google.Protobuf.dll
+F:\faculty\droos\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\Zstandard.Net.dll
+F:\faculty\droos\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\faculty\droos\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\BouncyCastle.Crypto.dll
+F:\faculty\droos\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\Ubiety.Dns.Core.dll
+F:\faculty\droos\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\Renci.SshNet.dll
+F:\faculty\droos\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\System.Memory.dll
+F:\faculty\droos\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\System.Buffers.dll
+F:\faculty\droos\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\K4os.Compression.LZ4.dll
+F:\faculty\droos\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\K4os.Hash.xxHash.dll
+F:\faculty\droos\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\System.Numerics.Vectors.dll
+F:\faculty\droos\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\faculty\droos\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\MySql.Data.xml
+F:\faculty\droos\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.csprojAssemblyReference.cache
+F:\faculty\droos\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.exe.config
+F:\faculty\droos\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.accountStatement.resources
+F:\faculty\droos\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.acountingForm.resources
+F:\faculty\droos\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.addStudent.resources
+F:\faculty\droos\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.carnivalPrint.resources
+F:\faculty\droos\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.employersForm.resources
+F:\faculty\droos\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.expensesForm.resources
+F:\faculty\droos\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.groupsForm.resources
+F:\faculty\droos\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.homework.resources
+F:\faculty\droos\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.latePayments.resources
+F:\faculty\droos\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.lessonsForm.resources
+F:\faculty\droos\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.mainPageForm.resources
+F:\faculty\droos\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.payingExpenses.resources
+F:\faculty\droos\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.presence.resources
+F:\faculty\droos\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.reportEmployee.resources
+F:\faculty\droos\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.salary.resources
+F:\faculty\droos\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.studentsForm.resources
+F:\faculty\droos\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.loginForm.resources
+F:\faculty\droos\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.mainPanel.resources
+F:\faculty\droos\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Properties.Resources.resources
+F:\faculty\droos\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.csproj.GenerateResource.cache
+F:\faculty\droos\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.csproj.CoreCompileInputs.cache
+F:\faculty\droos\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.csproj.CopyComplete
+F:\faculty\droos\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.exe
+F:\faculty\droos\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.pdb
+C:\Users\ELMAJD COMP\Desktop\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\DroosManegmentSystem.exe.config
+C:\Users\ELMAJD COMP\Desktop\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\DroosManegmentSystem.exe
+C:\Users\ELMAJD COMP\Desktop\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\DroosManegmentSystem.pdb
+C:\Users\ELMAJD COMP\Desktop\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ELMAJD COMP\Desktop\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\MySql.Data.dll
+C:\Users\ELMAJD COMP\Desktop\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\Google.Protobuf.dll
+C:\Users\ELMAJD COMP\Desktop\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\Zstandard.Net.dll
+C:\Users\ELMAJD COMP\Desktop\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ELMAJD COMP\Desktop\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ELMAJD COMP\Desktop\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ELMAJD COMP\Desktop\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\Renci.SshNet.dll
+C:\Users\ELMAJD COMP\Desktop\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\System.Memory.dll
+C:\Users\ELMAJD COMP\Desktop\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\System.Buffers.dll
+C:\Users\ELMAJD COMP\Desktop\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ELMAJD COMP\Desktop\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ELMAJD COMP\Desktop\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ELMAJD COMP\Desktop\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ELMAJD COMP\Desktop\DroosManegmentSystem\DroosManegmentSystem\bin\Debug\MySql.Data.xml
+C:\Users\ELMAJD COMP\Desktop\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.csprojAssemblyReference.cache
+C:\Users\ELMAJD COMP\Desktop\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.exe.config
+C:\Users\ELMAJD COMP\Desktop\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.accountStatement.resources
+C:\Users\ELMAJD COMP\Desktop\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.acountingForm.resources
+C:\Users\ELMAJD COMP\Desktop\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.addStudent.resources
+C:\Users\ELMAJD COMP\Desktop\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.carnivalPrint.resources
+C:\Users\ELMAJD COMP\Desktop\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.employersForm.resources
+C:\Users\ELMAJD COMP\Desktop\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.expensesForm.resources
+C:\Users\ELMAJD COMP\Desktop\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.groupsForm.resources
+C:\Users\ELMAJD COMP\Desktop\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.homework.resources
+C:\Users\ELMAJD COMP\Desktop\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.latePayments.resources
+C:\Users\ELMAJD COMP\Desktop\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.lessonsForm.resources
+C:\Users\ELMAJD COMP\Desktop\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.mainPageForm.resources
+C:\Users\ELMAJD COMP\Desktop\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.payingExpenses.resources
+C:\Users\ELMAJD COMP\Desktop\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.presence.resources
+C:\Users\ELMAJD COMP\Desktop\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.reportEmployee.resources
+C:\Users\ELMAJD COMP\Desktop\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.salary.resources
+C:\Users\ELMAJD COMP\Desktop\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Forms.studentsForm.resources
+C:\Users\ELMAJD COMP\Desktop\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.loginForm.resources
+C:\Users\ELMAJD COMP\Desktop\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.mainPanel.resources
+C:\Users\ELMAJD COMP\Desktop\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.Properties.Resources.resources
+C:\Users\ELMAJD COMP\Desktop\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.csproj.GenerateResource.cache
+C:\Users\ELMAJD COMP\Desktop\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\ELMAJD COMP\Desktop\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.csproj.CopyComplete
+C:\Users\ELMAJD COMP\Desktop\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.exe
+C:\Users\ELMAJD COMP\Desktop\DroosManegmentSystem\DroosManegmentSystem\obj\Debug\DroosManegmentSystem.pdb
