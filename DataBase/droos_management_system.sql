@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Dec 22, 2020 at 11:32 AM
+-- Generation Time: Dec 26, 2020 at 10:44 AM
 -- Server version: 10.4.11-MariaDB
 -- PHP Version: 7.4.4
 
@@ -42,7 +42,9 @@ INSERT INTO `attends` (`ID`, `Student_id`, `Lesson_id`) VALUES
 (2, 8, 1),
 (3, 1, 1),
 (7, 3, 1),
-(8, 5, 2);
+(20, 4, 1),
+(21, 11, 1),
+(22, 14, 5);
 
 -- --------------------------------------------------------
 
@@ -124,7 +126,9 @@ INSERT INTO `degrees` (`ID`, `Value`, `Student_id`, `Exam_id`) VALUES
 (8, 18, 4, 2),
 (9, 5, 4, 3),
 (12, 15, 4, 4),
-(13, 10, 4, 4);
+(13, 10, 4, 4),
+(14, 15, 17, 1),
+(15, 18, 16, 4);
 
 -- --------------------------------------------------------
 
@@ -203,7 +207,7 @@ CREATE TABLE `students` (
 INSERT INTO `students` (`ID`, `FullName`, `Phone`, `Parent_phone`, `Parent_job`, `Year`, `Register_date`, `Class_id`, `ParCode`, `Address`, `Money_Paied`, `Lastmonthpaied`, `Notes`) VALUES
 (1, 'mohamed ahmed mahmoud', 1011111111, 1011111111, 'employee', 2020, '2020-11-04', 6, 455, 'Shapas', 0, 11, ''),
 (3, 'Marwan', 1011111111, 1011111111, 'manager', 2019, '2020-11-14', 6, 454, 'biella', 0, 10, ''),
-(4, 'ali', 1011111111, 1011111111, 'carbenter', 2020, '2020-11-14', 6, 48, '', 0, 11, ''),
+(4, 'ali', 1011111111, 1011111111, 'carbenter', 2020, '2020-11-14', 6, 48, '', 0, 12, ''),
 (5, 'mai mahmoud', 1011111111, 1011111111, 'HR', 2020, '2020-11-14', 7, 54, 'Alex', 0, 11, ''),
 (6, 'Manal', 454545454, 544548454, 'teacher', 2019, '2020-12-02', 9, 455445, 'at police station', 1, 11, 'no notes'),
 (7, 'mawada', 454545454, 544548454, 'doctor', 2020, '2020-12-02', 9, 455445, 'at hospital station', 1, 12, 'no notes'),
@@ -211,7 +215,13 @@ INSERT INTO `students` (`ID`, `FullName`, `Phone`, `Parent_phone`, `Parent_job`,
 (9, 'ala', 10111111, 2026506, 'pharmacy', 2021, '2020-12-09', 10, 655, 'desouq ', 0, 11, 'there is no notes'),
 (10, 'mando', 10111111, 2026506, 'profissor', 2021, '2020-12-09', 10, 655, 'kafr Elshiekh ', 0, 12, 'there is no notes'),
 (11, 'ممدوح', 121545, 4545454, 'محامى', 2020, '2020-12-22', 6, 0, 'شباس', 0, 12, 'لايوجد'),
-(12, 'عمر', 123002, 9897979, 'مدرس', 2020, '2020-12-22', 7, 0, 'شباس', 0, 12, 'لايوجد');
+(12, 'عمر', 123002, 9897979, 'مدرس', 2020, '2020-12-22', 7, 0, 'شباس', 0, 12, 'لايوجد'),
+(13, 'منار', 123456, 123456, 'مكانيكى', 2020, '2020-12-26', 6, 0, 'العاشر', 1, 0, ''),
+(14, 'منال', 123456, 123456, 'مدرس', 2020, '2020-12-26', 6, 0, 'المنصوره', 1, 0, ''),
+(15, 'هاشم', 123456, 123456, 'محامى', 2020, '2020-12-26', 10, 0, 'المنيا', 0, 0, ''),
+(16, 'محمود', 123456, 123456, 'موظف', 2020, '2020-12-26', 10, 0, 'كفرالشيخ', 0, 0, ''),
+(17, 'عبدالرحمن', 123456, 123456, 'موظف', 2020, '2020-12-26', 6, 0, 'كفرالشيخ', 0, 0, ''),
+(18, 'مريم', 123456, 123456, 'وكيل وزاره', 2020, '2020-12-26', 6, 0, 'قلين', 0, 0, '');
 
 -- --------------------------------------------------------
 
@@ -306,7 +316,7 @@ ALTER TABLE `teachers`
 -- AUTO_INCREMENT for table `attends`
 --
 ALTER TABLE `attends`
-  MODIFY `ID` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=9;
+  MODIFY `ID` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=23;
 
 --
 -- AUTO_INCREMENT for table `classes`
@@ -324,7 +334,7 @@ ALTER TABLE `clerks`
 -- AUTO_INCREMENT for table `degrees`
 --
 ALTER TABLE `degrees`
-  MODIFY `ID` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=14;
+  MODIFY `ID` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=18;
 
 --
 -- AUTO_INCREMENT for table `exams`
@@ -342,7 +352,7 @@ ALTER TABLE `lessons`
 -- AUTO_INCREMENT for table `students`
 --
 ALTER TABLE `students`
-  MODIFY `ID` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=13;
+  MODIFY `ID` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=19;
 
 --
 -- AUTO_INCREMENT for table `teachers`

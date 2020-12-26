@@ -70,14 +70,24 @@ namespace DroosManegmentSystem.Forms
 
             Connection my = new Connection();
 
-            bool insert = my.sqlorder("insert into attends values (NULL, " + this.studentid + ", " + this.lessonid + ")"); 
-            if(insert == true)
+            //first check from the student  if exist or not 
+           MySqlDataReader data =  my.select("select * from Students where ID = '" + this.studentid + "'");
+            while (data.Read())
             {
-                comboBox3_SelectedValueChanged(sender, e);
-            }
+                if(data.GetString(0) == this.studentid)
+                {
+                    bool insert = my.sqlorder("insert into attends values (NULL, " + this.studentid + ", " + this.lessonid + ")");
+                    if (insert == true)
+                    {
+                        comboBox3_SelectedValueChanged(sender, e);
+                    }
 
+                } 
+            } 
+            
             comboBox2.Text = " ";
-
+            textBox3.Text = " ";
+            this.studentid = "0";
         }
 
         private void comboBox3_SelectedValueChanged(object sender, EventArgs e)
