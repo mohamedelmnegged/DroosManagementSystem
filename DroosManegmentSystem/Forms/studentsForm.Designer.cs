@@ -782,10 +782,12 @@ namespace DroosManegmentSystem.Forms
             // 
             // listBox1
             // 
+            this.listBox1.Font = new System.Drawing.Font("Tahoma", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.listBox1.FormattingEnabled = true;
+            this.listBox1.ItemHeight = 23;
             this.listBox1.Location = new System.Drawing.Point(746, 84);
             this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(280, 472);
+            this.listBox1.Size = new System.Drawing.Size(280, 464);
             this.listBox1.TabIndex = 33;
             this.listBox1.SelectedValueChanged += new System.EventHandler(this.listBox1_SelectedValueChanged);
             // 
