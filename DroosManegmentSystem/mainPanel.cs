@@ -41,9 +41,11 @@ namespace DroosManegmentSystem
 		}
 
 		// RGB Colors
-
+		//this is the colors used in the program 
+		
 		private struct RGBColors
-		{
+		{ 
+			
 			public static Color color1 = Color.FromArgb(52, 152, 219);
 			public static Color color2 = Color.FromArgb(38, 194, 129);
 			public static Color color3 = Color.FromArgb(142, 68, 173);
@@ -59,7 +61,6 @@ namespace DroosManegmentSystem
 			sideMenu.Controls.Add(rightBorderBtn);
 
 			// Activate Home Button
-
 			activatBtn(homeBtn, RGBColors.color1);
 			openChildForm(new mainPageForm(this.teacherid));
 
@@ -108,18 +109,18 @@ namespace DroosManegmentSystem
 
 		// Show SubMenu Panels Method
 
-		private void showSubMenu(Panel subMenu)
-		{
-			if (subMenu.Visible == false)
-			{
-				hideSubMenus();
-				subMenu.Visible = true;
-			}
-			else
-			{
-				subMenu.Visible = false;
-			}
-		}
+		//private void showSubMenu(Panel subMenu)
+		//{
+		//	if (subMenu.Visible == false)
+		//	{
+		//		hideSubMenus();
+		//		subMenu.Visible = true;
+		//	}
+		//	else
+		//	{
+		//		subMenu.Visible = false;
+		//	}
+		//}
 
 		// Change Navbar Active Page Data Method
 		private void changeNavbarTitle(object btn, Color color)
@@ -191,17 +192,17 @@ namespace DroosManegmentSystem
 			openChildForm(new employersForm(this.teacherid));
 		}
 
-		private void espenseBtn_Click(object sender, EventArgs e)
-		{
-			activatBtn(sender, RGBColors.color2);
-			openChildForm(new expensesForm());
-		}
+		//private void espenseBtn_Click(object sender, EventArgs e)
+		//{
+		//	activatBtn(sender, RGBColors.color2);
+		//	openChildForm(new expensesForm());
+		//}
 
-		private void accBtn_Click(object sender, EventArgs e)
-		{
-			activatBtn(sender, RGBColors.color3);
-			openChildForm(new acountingForm());
-		}
+		//private void accBtn_Click(object sender, EventArgs e)
+		//{
+		//	activatBtn(sender, RGBColors.color3);
+		//	openChildForm(new acountingForm());
+		//}
 
 		//// Navbar Buttons
 

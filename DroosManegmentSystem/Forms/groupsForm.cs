@@ -58,13 +58,7 @@ namespace DroosManegmentSystem.Forms
             while (students.Read())
             {
                 dataGridView1.Rows.Add(students.GetString(0), students.GetString(1)); 
-                
-                
             }
-
-
-
-
         }
 
         private void listBox1_SelectedIndexChanged(object sender, EventArgs e)

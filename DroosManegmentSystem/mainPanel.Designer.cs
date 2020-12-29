@@ -30,8 +30,6 @@
 		{
             this.sideMenu = new System.Windows.Forms.Panel();
             this.logOut = new FontAwesome.Sharp.IconButton();
-            this.accBtn = new FontAwesome.Sharp.IconButton();
-            this.espenseBtn = new FontAwesome.Sharp.IconButton();
             this.employerBtn = new FontAwesome.Sharp.IconButton();
             this.lesonBtn = new FontAwesome.Sharp.IconButton();
             this.studentMBtn = new FontAwesome.Sharp.IconButton();
@@ -59,8 +57,6 @@
             this.sideMenu.AutoScroll = true;
             this.sideMenu.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(34)))), ((int)(((byte)(42)))), ((int)(((byte)(45)))));
             this.sideMenu.Controls.Add(this.logOut);
-            this.sideMenu.Controls.Add(this.accBtn);
-            this.sideMenu.Controls.Add(this.espenseBtn);
             this.sideMenu.Controls.Add(this.employerBtn);
             this.sideMenu.Controls.Add(this.lesonBtn);
             this.sideMenu.Controls.Add(this.studentMBtn);
@@ -89,7 +85,7 @@
             this.logOut.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.logOut.IconSize = 30;
             this.logOut.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.logOut.Location = new System.Drawing.Point(0, 626);
+            this.logOut.Location = new System.Drawing.Point(0, 496);
             this.logOut.Name = "logOut";
             this.logOut.Padding = new System.Windows.Forms.Padding(0, 0, 20, 0);
             this.logOut.Size = new System.Drawing.Size(291, 65);
@@ -99,54 +95,6 @@
             this.logOut.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.logOut.UseVisualStyleBackColor = true;
             this.logOut.Click += new System.EventHandler(this.logOut_Click);
-            // 
-            // accBtn
-            // 
-            this.accBtn.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.accBtn.Dock = System.Windows.Forms.DockStyle.Top;
-            this.accBtn.FlatAppearance.BorderSize = 0;
-            this.accBtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.accBtn.Font = new System.Drawing.Font("Droid Arabic Kufi", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.accBtn.ForeColor = System.Drawing.Color.White;
-            this.accBtn.IconChar = FontAwesome.Sharp.IconChar.Table;
-            this.accBtn.IconColor = System.Drawing.Color.White;
-            this.accBtn.IconFont = FontAwesome.Sharp.IconFont.Auto;
-            this.accBtn.IconSize = 30;
-            this.accBtn.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.accBtn.Location = new System.Drawing.Point(0, 561);
-            this.accBtn.Name = "accBtn";
-            this.accBtn.Padding = new System.Windows.Forms.Padding(0, 0, 20, 0);
-            this.accBtn.Size = new System.Drawing.Size(291, 65);
-            this.accBtn.TabIndex = 12;
-            this.accBtn.Text = "ادارة الحسابات";
-            this.accBtn.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.accBtn.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-            this.accBtn.UseVisualStyleBackColor = true;
-            this.accBtn.Click += new System.EventHandler(this.accBtn_Click);
-            // 
-            // espenseBtn
-            // 
-            this.espenseBtn.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.espenseBtn.Dock = System.Windows.Forms.DockStyle.Top;
-            this.espenseBtn.FlatAppearance.BorderSize = 0;
-            this.espenseBtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.espenseBtn.Font = new System.Drawing.Font("Droid Arabic Kufi", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.espenseBtn.ForeColor = System.Drawing.Color.White;
-            this.espenseBtn.IconChar = FontAwesome.Sharp.IconChar.Wallet;
-            this.espenseBtn.IconColor = System.Drawing.Color.White;
-            this.espenseBtn.IconFont = FontAwesome.Sharp.IconFont.Auto;
-            this.espenseBtn.IconSize = 30;
-            this.espenseBtn.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.espenseBtn.Location = new System.Drawing.Point(0, 496);
-            this.espenseBtn.Name = "espenseBtn";
-            this.espenseBtn.Padding = new System.Windows.Forms.Padding(0, 0, 20, 0);
-            this.espenseBtn.Size = new System.Drawing.Size(291, 65);
-            this.espenseBtn.TabIndex = 11;
-            this.espenseBtn.Text = "ادارة المصروفات";
-            this.espenseBtn.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.espenseBtn.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-            this.espenseBtn.UseVisualStyleBackColor = true;
-            this.espenseBtn.Click += new System.EventHandler(this.espenseBtn_Click);
             // 
             // employerBtn
             // 
@@ -437,8 +385,6 @@
 		private FontAwesome.Sharp.IconButton navbarActivePage;
 		private System.Windows.Forms.Panel childFormPnl;
 		private FontAwesome.Sharp.IconButton studentMBtn;
-		private FontAwesome.Sharp.IconButton accBtn;
-		private FontAwesome.Sharp.IconButton espenseBtn;
 		private FontAwesome.Sharp.IconButton employerBtn;
 		private FontAwesome.Sharp.IconButton lesonBtn;
 		private FontAwesome.Sharp.IconButton logOut;

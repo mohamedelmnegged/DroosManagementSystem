@@ -42,11 +42,16 @@ namespace DroosManegmentSystem.Forms
         private void studentsForm_Load(object sender, EventArgs e)
         {
             Connection my = new Connection();
-            MySqlDataReader data = my.select("select s.* from students s join classes c on s.Class_id = c.ID where c.Teacher_id ='" + this.teacherid+ "'" );
+            MySqlDataReader data = my.select("select s.FullName from students s join classes c on s.Class_id = c.ID where c.Teacher_id ='" + this.teacherid + "' order by s.ID asc");
+            MySqlDataReader data2 = my.select("select count(s.ID) from students s join classes c on s.Class_id = c.ID where c.Teacher_id ='" + this.teacherid + "'");
             while (data.Read())
             {
-                listBox1.Items.Add(data.GetString(1));
-                
+                listBox1.Items.Add(data.GetString(0));
+
+            }
+            while (data2.Read())
+            {
+                textBox1.Text = data2.GetString(0);
             }
         }
 
@@ -179,7 +184,7 @@ namespace DroosManegmentSystem.Forms
             //get the students data and show it 
             string studentname = listBox1.SelectedItem.ToString();
             Connection my = new Connection();
-            MySqlDataReader data = my.select(" select s.*, c.Name from students s join classes c on s.Class_id = c.ID where c.Teacher_id = '" + this.teacherid + "'" +  " and s.FullName = '" + studentname + "'" );
+            MySqlDataReader data = my.select("select s.*, c.Name from students s join classes c on s.Class_id = c.ID where c.Teacher_id = '" + this.teacherid + "'" +  " and s.FullName = '" + studentname + "'" );
             while (data.Read())
             {
                 dataGridView1.Rows.Clear();

@@ -80,6 +80,7 @@ namespace DroosManegmentSystem.Forms
                     if (insert == true)
                     {
                         comboBox3_SelectedValueChanged(sender, e);
+                        
                     }
 
                 } 
@@ -92,7 +93,7 @@ namespace DroosManegmentSystem.Forms
 
         private void comboBox3_SelectedValueChanged(object sender, EventArgs e)
         { 
-           
+           //this to show the attends students 
 
             listBox1.Items.Clear();
             listBox2.Items.Clear();
